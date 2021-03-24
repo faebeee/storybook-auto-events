@@ -1,6 +1,6 @@
 {
     "name": "storybook-auto-events",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Auto events for your stories in storybook",
     "keywords": [
         "storybook",
