@@ -1,0 +1,19 @@
+{
+  "name": "storybook-auto-events",
+  "version": "0.1.0",
+  "description": "",
+  "main": "decorator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@storybook/addon-actions": "^6.1.21",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@storybook/addons": "^6.1.21"
+  }
+}
